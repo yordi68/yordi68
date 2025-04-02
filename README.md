@@ -3,14 +3,13 @@
 
 - 🔭 I’m currently working on [Eventify](https://eventifyy.vercel.app/)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning about **Microservices**
 
 - 💬 Ask me about **Javascript, Vue and React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yordi_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yordi_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yordanosyirgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yordanosyirgu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yordi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yordi1" height="30" width="40" /></a>
 </p>
 
