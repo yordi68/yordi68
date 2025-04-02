@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Microservices**
 
-- 💬 Ask me about **Javascript, Vue and React**
+- 💬 Ask me about **Javascript, React and Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
